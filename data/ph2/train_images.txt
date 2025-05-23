@@ -1,0 +1,17 @@
+datasets\PH2\PH2 Dataset images\IMD023\IMD023_Dermoscopic_Image\IMD023.bmp
+datasets\PH2\PH2 Dataset images\IMD008\IMD008_Dermoscopic_Image\IMD008.bmp
+datasets\PH2\PH2 Dataset images\IMD032\IMD032_Dermoscopic_Image\IMD032.bmp
+datasets\PH2\PH2 Dataset images\IMD016\IMD016_Dermoscopic_Image\IMD016.bmp
+datasets\PH2\PH2 Dataset images\IMD010\IMD010_Dermoscopic_Image\IMD010.bmp
+datasets\PH2\PH2 Dataset images\IMD021\IMD021_Dermoscopic_Image\IMD021.bmp
+datasets\PH2\PH2 Dataset images\IMD025\IMD025_Dermoscopic_Image\IMD025.bmp
+datasets\PH2\PH2 Dataset images\IMD014\IMD014_Dermoscopic_Image\IMD014.bmp
+datasets\PH2\PH2 Dataset images\IMD013\IMD013_Dermoscopic_Image\IMD013.bmp
+datasets\PH2\PH2 Dataset images\IMD015\IMD015_Dermoscopic_Image\IMD015.bmp
+datasets\PH2\PH2 Dataset images\IMD009\IMD009_Dermoscopic_Image\IMD009.bmp
+datasets\PH2\PH2 Dataset images\IMD018\IMD018_Dermoscopic_Image\IMD018.bmp
+datasets\PH2\PH2 Dataset images\IMD019\IMD019_Dermoscopic_Image\IMD019.bmp
+datasets\PH2\PH2 Dataset images\IMD030\IMD030_Dermoscopic_Image\IMD030.bmp
+datasets\PH2\PH2 Dataset images\IMD022\IMD022_Dermoscopic_Image\IMD022.bmp
+datasets\PH2\PH2 Dataset images\IMD017\IMD017_Dermoscopic_Image\IMD017.bmp
+datasets\PH2\PH2 Dataset images\IMD031\IMD031_Dermoscopic_Image\IMD031.bmp

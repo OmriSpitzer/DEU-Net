@@ -1,0 +1,2 @@
+datasets\ISIC2016_224x224\ISBI2016_ISIC_Part1_Training_Data\ISIC_0000004.png
+datasets\ISIC2016_224x224\ISBI2016_ISIC_Part1_Training_Data\ISIC_0000021.png

@@ -1,0 +1,2 @@
+datasets\PH2\PH2 Dataset images\IMD027\IMD027_lesion\IMD027_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD003\IMD003_lesion\IMD003_lesion.bmp

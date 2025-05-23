@@ -1,0 +1,7 @@
+datasets\ISIC2017\ISIC-2017_Validation_Data\ISIC_0001769.jpg
+datasets\ISIC2017\ISIC-2017_Validation_Data\ISIC_0001852.jpg
+datasets\ISIC2017\ISIC-2017_Validation_Data\ISIC_0001871.jpg
+datasets\ISIC2017\ISIC-2017_Validation_Data\ISIC_0003462.jpg
+datasets\ISIC2017\ISIC-2017_Validation_Data\ISIC_0003539.jpg
+datasets\ISIC2017\ISIC-2017_Validation_Data\ISIC_0003582.jpg
+datasets\ISIC2017\ISIC-2017_Validation_Data\ISIC_0003657.jpg

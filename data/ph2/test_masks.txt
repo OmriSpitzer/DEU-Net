@@ -1,0 +1,6 @@
+datasets\PH2\PH2 Dataset images\IMD024\IMD024_lesion\IMD024_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD004\IMD004_lesion\IMD004_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD002\IMD002_lesion\IMD002_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD006\IMD006_lesion\IMD006_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD020\IMD020_lesion\IMD020_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD033\IMD033_lesion\IMD033_lesion.bmp

@@ -1,0 +1,17 @@
+datasets\PH2\PH2 Dataset images\IMD023\IMD023_lesion\IMD023_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD008\IMD008_lesion\IMD008_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD032\IMD032_lesion\IMD032_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD016\IMD016_lesion\IMD016_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD010\IMD010_lesion\IMD010_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD021\IMD021_lesion\IMD021_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD025\IMD025_lesion\IMD025_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD014\IMD014_lesion\IMD014_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD013\IMD013_lesion\IMD013_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD015\IMD015_lesion\IMD015_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD009\IMD009_lesion\IMD009_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD018\IMD018_lesion\IMD018_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD019\IMD019_lesion\IMD019_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD030\IMD030_lesion\IMD030_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD022\IMD022_lesion\IMD022_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD017\IMD017_lesion\IMD017_lesion.bmp
+datasets\PH2\PH2 Dataset images\IMD031\IMD031_lesion\IMD031_lesion.bmp

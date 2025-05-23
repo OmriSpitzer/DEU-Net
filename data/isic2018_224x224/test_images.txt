@@ -1,0 +1,13 @@
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000025.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000008.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000058.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000048.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000046.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000003.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000041.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000055.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000007.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000000.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000009.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000031.png
+datasets\ISIC2018_224x224\ISIC2018_Task1-2_Training_Input\ISIC_0000053.png

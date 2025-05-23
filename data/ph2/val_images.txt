@@ -1,0 +1,2 @@
+datasets\PH2\PH2 Dataset images\IMD027\IMD027_Dermoscopic_Image\IMD027.bmp
+datasets\PH2\PH2 Dataset images\IMD003\IMD003_Dermoscopic_Image\IMD003.bmp

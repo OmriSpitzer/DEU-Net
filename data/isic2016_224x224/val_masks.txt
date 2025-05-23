@@ -1,0 +1,2 @@
+datasets\ISIC2016_224x224\ISBI2016_ISIC_Part1_Training_GroundTruth\ISIC_0000004_Segmentation.png
+datasets\ISIC2016_224x224\ISBI2016_ISIC_Part1_Training_GroundTruth\ISIC_0000021_Segmentation.png

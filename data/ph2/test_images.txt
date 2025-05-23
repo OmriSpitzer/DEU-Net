@@ -1,0 +1,6 @@
+datasets\PH2\PH2 Dataset images\IMD024\IMD024_Dermoscopic_Image\IMD024.bmp
+datasets\PH2\PH2 Dataset images\IMD004\IMD004_Dermoscopic_Image\IMD004.bmp
+datasets\PH2\PH2 Dataset images\IMD002\IMD002_Dermoscopic_Image\IMD002.bmp
+datasets\PH2\PH2 Dataset images\IMD006\IMD006_Dermoscopic_Image\IMD006.bmp
+datasets\PH2\PH2 Dataset images\IMD020\IMD020_Dermoscopic_Image\IMD020.bmp
+datasets\PH2\PH2 Dataset images\IMD033\IMD033_Dermoscopic_Image\IMD033.bmp
