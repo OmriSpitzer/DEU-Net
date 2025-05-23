@@ -1,0 +1,8 @@
+{"time":"2025-05-21T20:15:29.2122919+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"wandb\\offline-run-20250521_201528-wiebpluo\\logs\\debug-core.log"}
+{"time":"2025-05-21T20:15:29.3643757+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-21T20:15:29.3654893+03:00","level":"INFO","msg":"created new stream","id":"wiebpluo"}
+{"time":"2025-05-21T20:15:29.3654893+03:00","level":"INFO","msg":"stream: started","id":"wiebpluo"}
+{"time":"2025-05-21T20:15:29.3654893+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"wiebpluo"}
+{"time":"2025-05-21T20:15:29.3654893+03:00","level":"INFO","msg":"handler: started","stream_id":"wiebpluo"}
+{"time":"2025-05-21T20:15:29.3654893+03:00","level":"INFO","msg":"sender: started","stream_id":"wiebpluo"}
+{"time":"2025-05-21T20:15:29.3739693+03:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,53 @@
+2025-05-20 17:52:30,024 INFO    MainThread:11816 [wandb_setup.py:_flush():70] Current SDK version is 0.19.11
+2025-05-20 17:52:30,024 INFO    MainThread:11816 [wandb_setup.py:_flush():70] Configure stats pid to 11816
+2025-05-20 17:52:30,024 INFO    MainThread:11816 [wandb_setup.py:_flush():70] Loading settings from C:\Users\עומרי_שפיצר\.config\wandb\settings
+2025-05-20 17:52:30,024 INFO    MainThread:11816 [wandb_setup.py:_flush():70] Loading settings from C:\Users\עומרי_שפיצר\OneDrive\Desktop\DEU-Net-main\wandb\settings
+2025-05-20 17:52:30,025 INFO    MainThread:11816 [wandb_setup.py:_flush():70] Loading settings from environment variables
+2025-05-20 17:52:30,025 INFO    MainThread:11816 [wandb_init.py:setup_run_log_directory():724] Logging user logs to .\wandb\offline-run-20250520_175229-wnetajyj\logs\debug.log
+2025-05-20 17:52:30,026 INFO    MainThread:11816 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to .\wandb\offline-run-20250520_175229-wnetajyj\logs\debug-internal.log
+2025-05-20 17:52:30,026 INFO    MainThread:11816 [wandb_init.py:init():852] calling init triggers
+2025-05-20 17:52:30,026 INFO    MainThread:11816 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-05-20 17:52:30,026 INFO    MainThread:11816 [wandb_init.py:init():893] starting backend
+2025-05-20 17:52:30,600 INFO    MainThread:11816 [wandb_init.py:init():897] sending inform_init request
+2025-05-20 17:52:30,747 INFO    MainThread:11816 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 17:52:30,749 INFO    MainThread:11816 [wandb_init.py:init():907] backend started and connected
+2025-05-20 17:52:30,756 INFO    MainThread:11816 [wandb_init.py:init():1005] updated telemetry
+2025-05-20 17:52:30,780 INFO    MainThread:11816 [wandb_init.py:init():1029] communicating run to backend with 90.0 second timeout
+2025-05-20 17:52:31,370 INFO    MainThread:11816 [wandb_init.py:init():1104] starting run threads in backend
+2025-05-20 17:52:33,438 INFO    MainThread:11816 [wandb_run.py:_console_start():2573] atexit reg
+2025-05-20 17:52:33,439 INFO    MainThread:11816 [wandb_run.py:_redirect():2421] redirect: wrap_raw
+2025-05-20 17:52:33,440 INFO    MainThread:11816 [wandb_run.py:_redirect():2490] Wrapping output streams.
+2025-05-20 17:52:33,440 INFO    MainThread:11816 [wandb_run.py:_redirect():2513] Redirects installed.
+2025-05-20 17:52:33,470 INFO    MainThread:11816 [wandb_init.py:init():1150] run started, returning control to user process
+2025-05-20 17:52:33,474 INFO    MainThread:11816 [wandb_run.py:_config_callback():1436] config_cb None None {'arguments': {'net_cfg': 'cfg/net/dual-encoder-unet.cfg', 'train_cfg': 'cfg/train.cfg', 'dataset': 'data/isic2018', 'load': False, 'checkpoint_dir': 'checkpoints', 'tensorboard_dir': '', 'wandb_dir': '', 'wandb_run_name': 'SkinLesionSegmentation', 'note': False, 'no_cuda': False}, 'net_config': {'type': 'dual-encoder-unet', 'input_size': [224, 224], 'num_output_channels': 2, 'encoder1': 'efficientnet_b6', 'encoder1_pretrained': True, 'encoder2': 'maxvit_t', 'encoder2_pretrained': True, 'decoder_up_sample_bilinear': False, 'decoder_n_output_channels': None, 'decoder_input_from_encoder1_blocks': [0, 1, 2, 3], 'decoder_input_from_encoder2_blocks': [3], 'decoder_input_from_main_image': True, 'decoder_conv_mid_channels_scale_factor': 1, 'decoder_merge_operation': 'concat'}, 'train_config': {'epoch': {'count': 50, 'unfreeze_at': 0}, 'dataset': {'image_size': [224, 224], 'batch_size': 16, 'num_workers': 4}, 'dataset_augmentation': {'enable': True, 'prob': 1.0, 'rotation_range': [-15, 15], 'hflip_prob': 0.5, 'vflip_prob': 0.5, 'brightness': 0.03, 'contrast': 0.03, 'saturation': 0.03, 'hue': 0.03}, 'loss': {'dice_factor': 0.4, 'ce_factor': 0.6}, 'optim': {'type': 'adam', 'lr': 0.001, 'weight_decay': 0.0, 'betas': [0.5, 0.999], 'momentum': 0.9}, 'optim_lr_schedule': {'enable': False, 'type': 'cosine_annealing_warm_restarts', 'steps': [0.8, 0.9], 'scales': [0.1, 0.1], 'exponent': 0.9, 'eta_min': 1e-05, 'first_restart_at': 10, 'after_restart_factor': 2}, 'checkpoint': {'enable': False, 'step': 0.1}, 'evaluate': {'enable': True, 'step': 0.02, 'metric': 'dice'}, 'log_tensorboard': {'enable': True, 'histogram': False, 'sample_image_pred': False}, 'log_wandb': {'enable': True, 'histogram': False, 'sample_image_pred': False, 'mode': 'offline'}}}
+2025-05-20 18:18:21,323 WARNING MsgRouterThr:11816 [router.py:message_loop():63] [no run ID] message_loop has been closed
+Traceback (most recent call last):
+  File "C:\Users\עומרי_שפיצר\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 208, in _read_packet_bytes
+    data = self._sock.recv(self._bufsize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\עומרי_שפיצר\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\interface\router_sock.py", line 27, in _read_message
+    return self._sock_client.read_server_response(timeout=1)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\עומרי_שפיצר\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 235, in read_server_response
+    data = self._read_packet_bytes(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\עומרי_שפיצר\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\lib\sock_client.py", line 212, in _read_packet_bytes
+    raise SockClientClosedError from e
+wandb.sdk.lib.sock_client.SockClientClosedError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\עומרי_שפיצר\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\interface\router.py", line 56, in message_loop
+    msg = self._read_message()
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\עומרי_שפיצר\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\interface\router_sock.py", line 29, in _read_message
+    raise MessageRouterClosedError from e
+wandb.sdk.interface.router.MessageRouterClosedError
+2025-05-20 18:18:21,565 INFO    MsgRouterThr:11816 [mailbox.py:close():129] [no run ID] Closing mailbox, abandoning 0 handles.

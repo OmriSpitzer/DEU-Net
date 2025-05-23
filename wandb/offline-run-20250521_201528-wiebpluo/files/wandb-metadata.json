@@ -1,0 +1,35 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.3",
+  "startedAt": "2025-05-21T17:15:29.105368Z",
+  "args": [
+    "--net-cfg",
+    "cfg/net/dual-encoder-unet.cfg",
+    "--train-cfg",
+    "cfg/train.cfg",
+    "--dataset",
+    "data/isic2016",
+    "--no-cuda"
+  ],
+  "program": "C:\\Users\\עומרי_שפיצר\\OneDrive\\Desktop\\DEU-Net-main\\train.py",
+  "codePath": "train.py",
+  "root": ".",
+  "host": "HP-Spitzer",
+  "executable": "C:\\Users\\עומרי_שפיצר\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "codePathLocal": "train.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "510844633088",
+      "used": "392103555072"
+    }
+  },
+  "memory": {
+    "total": "8471760896"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
